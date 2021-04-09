@@ -1,2 +1,2 @@
 # bamba
-https://bamba06.github.io/iportfolio/
+https://bamba06.github.io/website/
